@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @RohitKumarSain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RohitKumarSain/RohitKumarSain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Web Designing with HTML, CSS and JavaScript and learn something new.
+- 🌱 I’m currently learning Full Stack Development.
+- 📫 You find me on LinkedIn Also : www.linkedin.com/in/rohitkumarsain/
