@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RohitKumarSain
 - 👀 I’m interested in Web Designing with HTML, CSS and JavaScript and learn something new.
 - 🌱 I’m currently learning Full Stack Development.
-- 📫 You find me on LinkedIn Also : www.linkedin.com/in/rohitkumarsain/
+- 📫 You find me on LinkedIn Also : www.linkedin.com/in/RohitKumarSain
