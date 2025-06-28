@@ -16,7 +16,7 @@
 ### 🧠 About Me
 
 - 🚀 I’m diving deep into **Data Science** using **Python**
-- 🧰 Skilled in: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
+- 🧰 Skilled in: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `SQL`
 - 📈 Interested in applying ML to solve real-world problems
 - 🌱 Always learning and building real-world data projects
 - 🤝 Open to collaborate on meaningful data-driven projects
